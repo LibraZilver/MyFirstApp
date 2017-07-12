@@ -5,4 +5,6 @@ package com.example.watcharac.myfirstapp;
  */
 
 public class TestAddFile {
+    public TestAddFile() {
+    }
 }
